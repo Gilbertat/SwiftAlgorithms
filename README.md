@@ -11,6 +11,6 @@
 
 ![](http://ww1.sinaimg.cn/large/72f96cbagw1f7lhvoeycuj20w801raa4.jpg)
 
-[![马拉车算法](http://ww2.sinaimg.cn/large/72f96cbagw1f7lhyhds67j20rs08wgo6.jpg)](https://github.com/SwiftClub/SwiftAlgorithms/wiki/%E9%A9%AC%E6%8B%89%E8%BD%A6%E7%AE%97%E6%B3%95)
+[![马拉车算法](http://ww4.sinaimg.cn/large/72f96cbagw1f7lk64coa0j20rs08wgo8.jpg)](https://github.com/SwiftClub/SwiftAlgorithms/wiki/%E9%A9%AC%E6%8B%89%E8%BD%A6%E7%AE%97%E6%B3%95)
 
 > 本开源项目所有资源，侵删，承诺永不盈利 👈 人家才不管能不能盈利呢 😾
