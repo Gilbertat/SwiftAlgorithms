@@ -12,3 +12,5 @@
 ![](http://ww1.sinaimg.cn/large/72f96cbagw1f7lhvoeycuj20w801raa4.jpg)
 
 [![马拉车算法](http://ww2.sinaimg.cn/large/72f96cbagw1f7lhyhds67j20rs08wgo6.jpg)](http://cbang.info)
+
+> 本开源项目所有资源，侵删，承诺永不盈利 👈 人家才不管能不能盈利呢 😾
