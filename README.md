@@ -9,7 +9,7 @@
 
 如果你想加入这个俱乐部，与我一起玩 _Swift_ 的话，不如 [点击此处](https://github.com/SwiftClub/SwiftAlgorithms/issues/new) 给我提个 issue，表达你的意愿吧，或者有任何建议，不要小气，与我分享。
 
-![](http://ww1.sinaimg.cn/large/72f96cbagw1f7lhvoeycuj20w801raa4.jpg)
+![](http://ww3.sinaimg.cn/large/72f96cbagw1f7m5c1w5qcj20w801rq31.jpg)
 
 [![马拉车算法](http://ww4.sinaimg.cn/large/72f96cbagw1f7lk64coa0j20rs08wgo8.jpg)](https://github.com/SwiftClub/SwiftAlgorithms/wiki/%E9%A9%AC%E6%8B%89%E8%BD%A6%E7%AE%97%E6%B3%95)
 
