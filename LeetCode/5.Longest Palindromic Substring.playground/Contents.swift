@@ -125,7 +125,7 @@ class LongestPalindromeTest {
         NSLog("The longest palindromic substring is %@", LongestPalindrome.longestPalindrome_dp(s: "asdfghjkllkjhgfds"))
     }
     class func longestPalindrome_ma_test() {
-        NSLog("The longest palindromic substring is %@", LongestPalindrome.longestPalindrome_ma(s: "qwertyuioppoiuytrew"))
+        NSLog("The longest palindromic substring is %@", LongestPalindrome.longestPalindrome_ma(s: "qwertyuioppoiuytrew000000000qwertyuioplkjhgfdsaasdfghjklpoiuytrewq"))
     }
 }
 
