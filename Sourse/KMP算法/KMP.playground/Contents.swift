@@ -146,7 +146,7 @@ func KMPMatch(TextStr: String, patternStr: String) -> Int {
             if j == -1 {
                 indexJ = patternStr.startIndex
             } else {
-              indexJ = patternStr.index(patternStr.startIndex, offsetBy: j)
+                indexJ = patternStr.index(patternStr.startIndex, offsetBy: j)
             }
         }
         
@@ -154,7 +154,18 @@ func KMPMatch(TextStr: String, patternStr: String) -> Int {
     return -1
 }
 
-KMPMatch(TextStr: textStr, patternStr: patternStr)
+print("文本串T为 " + textStr)
+print("模式串P为 " + patternStr)
+
+let index = KMPMatch(TextStr: textStr, patternStr: patternStr)
+
+if index > -1 {
+    print("模式串P第一次匹配成功的位置为 \(index)")
+}else {
+    print("匹配失败")
+}
+
+
 
 
 
